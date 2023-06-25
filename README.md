@@ -1,6 +1,6 @@
 # nabeelghouri
 
-<h1 align="center"> بنبیل غوری۔, Hey I'm Nabeel Ghouri</h1>
+<h1 align="center"> نبیل غوری۔, Hey I'm Nabeel Ghouri</h1>
 <h3 align="center">Hey, I am Full stack Developer</h3>
   
   
